@@ -5,11 +5,7 @@ American Sign Language (ASL) is the primary language used by many deaf individua
 In this project, I trained a convolutional neural network to classify images of ASL letters. After loading, examining, and preprocessing the data, I trained the network and test its performance. Project source: https://www.datacamp.com/projects/509
 
 Topics:
-
-Data Manipulation
-
-Data Visualization
-
-Machine Learning
-
-Importing & Cleaning Data
+* Data Manipulation
+* Data Visualization
+* Machine Learning
+* Importing & Cleaning Data
